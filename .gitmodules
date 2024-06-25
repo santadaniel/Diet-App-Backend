@@ -1,3 +1,6 @@
 [submodule "Food-Service"]
 	path = Food-Service
 	url = https://github.com/santadaniel/Food-Service
+[submodule "Drink-Service"]
+	path = Drink-Service
+	url = https://github.com/santadaniel/Drink-Service
