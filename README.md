@@ -27,3 +27,5 @@ The Kotlin-based Diet Project consists of three microservices: Foods, Drinks, an
   - `GET /diet/healthy`: Healthy diet
   - `GET /diet/tasty`: Tasty diet
   - `GET /diet/expensive`: Expensive diet
+  - `GET /diet/foods/{foods's name}`: Food with the given name
+  - `GET /diet/drinks/{drink's name}`: Drink with the given name
