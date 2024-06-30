@@ -1,4 +1,4 @@
-# Diet APP
+# Diet APP Backend
 The Kotlin-based Diet Project consists of three microservices: Foods, Drinks, and Diet. The Foods and Drinks services use separate data sources running MongoDB in Docker containers, while the Diet service combines data from the previous two services to provide various diet plans to users. This project is implemented using Spring Boot.
 
 ## Projects and Services
